@@ -78,11 +78,11 @@
             "overlayColor": "#000",
             "contentAlign": "left",
             "showTitle": false,
-            "showText": false,
+            "showText": true,
             "showButtons": false
           },
           "title": "Gilles Van Bever",
-          "text": "<p>Grafisch Ontwerp&nbsp;&nbsp;&nbsp;&nbsp;Gent</p>",
+          "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
         {
