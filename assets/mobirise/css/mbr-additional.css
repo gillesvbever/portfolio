@@ -13,6 +13,8 @@
 
 
 
+
+
 body,
 input,
 textarea,
@@ -454,6 +456,16 @@ h6,
   font-family: 'Roboto Condensed', sans-serif;
 }
 #msg-box5-k P {
+  color: #000000;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 12px;
+}
+#msg-box5-m H3 {
+  color: #000000;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 16px;
+}
+#msg-box5-m P {
   color: #000000;
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 12px;
