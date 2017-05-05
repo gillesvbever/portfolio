@@ -15,6 +15,9 @@
 
 
 
+
+
+
 body,
 input,
 textarea,
@@ -436,20 +439,6 @@ h6,
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 17px;
 }
-#header3-g .mbr-section-title,
-#header3-g .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-g SMALL {
-  text-align: right;
-  color: #000000;
-}
-#header3-g H3 {
-  text-align: right;
-  color: #000000;
-  font-family: 'Roboto Condensed', sans-serif;
-  font-size: 24px;
-}
 #msg-box5-k H3 {
   color: #000000;
   font-size: 16px;
@@ -476,6 +465,26 @@ h6,
   font-size: 16px;
 }
 #msg-box5-l P {
+  color: #000000;
+  font-size: 12px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#msg-box5-n H3 {
+  color: #000000;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 16px;
+}
+#msg-box5-n P {
+  color: #000000;
+  font-size: 12px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#msg-box5-p H3 {
+  color: #000000;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 16px;
+}
+#msg-box5-p P {
   color: #000000;
   font-size: 12px;
   font-family: 'Roboto Condensed', sans-serif;
