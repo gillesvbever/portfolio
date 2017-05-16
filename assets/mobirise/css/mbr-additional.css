@@ -18,6 +18,9 @@
 
 
 
+
+
+
 body,
 input,
 textarea,
@@ -487,6 +490,24 @@ h6,
 #msg-box5-p P {
   color: #000000;
   font-size: 12px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#content1-13 DIV {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 16px;
+}
+#content1-13 P {
+  color: #000000;
+}
+#form1-12 .form-control-label {
+  color: #000000;
+}
+#form1-12 .mbr-section-title {
+  color: #000000;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 16px;
+}
+#form1-12 .btn {
   font-family: 'Roboto Condensed', sans-serif;
 }
 

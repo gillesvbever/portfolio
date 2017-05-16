@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio 3BA",
-    "currentPage": "index_eng",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 38,
+    "uniqCompNum": 40,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -422,6 +422,96 @@
           "title": "Herontwerp MM FOOD..",
           "text": "Herontwerper voor de hoes van MM FOOD.. door MF DOOM<br>LUCA School of Arts",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-13",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Gilles Van Bever</b></p><p>Grafisch ontwerper<br>Gent<br>LUCA School of Arts</p><p><br></p><p>Aarzel niet mij te contacteren via onderstaand formulier!</p>",
+          "_styles": {
+            "DIV": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "16px"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "16px"
+            },
+            ".btn": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            }
+          },
+          "_anchor": "form1-12",
+          "_params": {
+            "labelsColor": "#000000",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showSubTitle": false
+          },
+          "title": "Contact",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "form": {
+            "action": "gilles.vanbever@student.luca-arts.be",
+            "alerts": {
+              "success": "Uw bericht werd goed verzonden! Ik beantwoord deze zo spoedig mogelijk."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Naam"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Emailadres"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Telefoonn"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Bericht"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contacteer</a>"
         }
       ]
     },
