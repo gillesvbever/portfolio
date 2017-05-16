@@ -825,7 +825,7 @@
           "_name": "form1",
           "_styles": {
             ".form-control-label": {
-              "color": "#232323"
+              "color": "#000000"
             },
             ".mbr-section-title": {
               "color": "#000000",
@@ -840,7 +840,7 @@
           },
           "_anchor": "form1-11",
           "_params": {
-            "labelsColor": "#232323",
+            "labelsColor": "#000000",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -859,18 +859,18 @@
           "form": {
             "action": "gilles.vanbever@student.luca-arts.be",
             "alerts": {
-              "success": "Uw bericht werd goed verzonden! Ik beantwoord deze zo spoedig mogelijk."
+              "success": "Your message was sent with success! I'll get back to you as soon as possible."
             },
             "fields": {
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Naam"
+                "customTitle": "Name"
               },
               "email": {
                 "title": "Email",
                 "visible": true,
-                "customTitle": "Emailadres"
+                "customTitle": "Email Adress"
               },
               "phone": {
                 "title": "Phone",
@@ -883,7 +883,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contacteer</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>"
         }
       ]
     }
