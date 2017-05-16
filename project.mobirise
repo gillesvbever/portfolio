@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio 3BA",
-    "currentPage": "index_eng",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -109,7 +109,7 @@
           },
           "_anchor": "msg-box5-k",
           "_params": {
-            "imageSize": "37",
+            "imageSize": "70",
             "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
@@ -133,7 +133,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/hearts-of-darkness-gilles-van-bever-1400x2032.png",
+              "src": "@PROJECT_PATH@/assets/images/hearts-of-darkness-reeks-1400x677.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -176,7 +176,7 @@
           },
           "_anchor": "msg-box5-m",
           "_params": {
-            "imageSize": "40",
+            "imageSize": "52",
             "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
@@ -200,7 +200,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/gabf-gilles-van-bever-1400x1971.png",
+              "src": "@PROJECT_PATH@/assets/images/gabf-reeks-1400x1016.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -243,7 +243,7 @@
           },
           "_anchor": "msg-box5-l",
           "_params": {
-            "imageSize": "40",
+            "imageSize": "32",
             "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
@@ -267,7 +267,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sint-lucas-dag-gilles-van-bever-1400x2032.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sint-lucas-dag-gilles-van-bever-1-1400x2032.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1024,6 +1024,21 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "16px"
+            },
+            ".btn": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            }
+          },
           "_anchor": "form1-11",
           "_params": {
             "labelsColor": "#232323",
@@ -1069,22 +1084,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contacteer</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            },
-            ".mbr-section-title": {
-              "color": "#000000",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-size": "16px"
-            },
-            ".btn": {
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contacteer</a>"
         }
       ]
     }
