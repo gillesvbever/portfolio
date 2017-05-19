@@ -649,7 +649,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/gif1-12.gif",
+            "bgImage": "@PROJECT_PATH@/assets/images/gif1-10.gif",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
