@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio 3BA",
-    "currentPage": "index.html",
+    "currentPage": "index_eng",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -650,7 +650,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/gif1-18.gif",
+            "bgImage": "@PROJECT_PATH@/assets/images/gif1-19.gif",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
