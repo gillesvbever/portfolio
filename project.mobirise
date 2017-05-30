@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio 3BA",
-    "currentPage": "index_eng",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -182,7 +182,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://gillesvbever.github.io/portfolio/\" aria-expanded=\"false\">Nederlands</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://gillesvbever.github.io/portfolio_eng/index_eng.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">\u001bNederlands</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://gillesvbever.github.io/portfolio\" aria-expanded=\"false\">Nederlands</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://gillesvbever.github.io/portfolio/index_eng.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">\u001bNederlands</a></li>"
         },
         {
           "_tags": [
@@ -650,7 +650,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/gif1-15.gif",
+            "bgImage": "@PROJECT_PATH@/assets/images/gif1-16.gif",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -762,7 +762,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://gillesvbever.github.io/portfolio/\" aria-expanded=\"false\">Nederlands</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://gillesvbever.github.io/portfolio_eng/index_eng.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">\u001bNederlands</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://gillesvbever.github.io/portfolio\" aria-expanded=\"false\">Nederlands</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://gillesvbever.github.io/portfolio/index_eng.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">\u001bNederlands</a></li>"
         },
         {
           "_tags": [
