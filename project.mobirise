@@ -229,7 +229,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/hearts-of-darkness-reeks-1400x677.png",
+              "src": "@PROJECT_PATH@/assets/images/hearts-of-darkness-reeks.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -296,7 +296,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/gabf-reeks-1400x1016.png",
+              "src": "@PROJECT_PATH@/assets/images/gabf-reeks.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -363,7 +363,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sint-lucas-dag-gilles-van-bever-1-1400x2032.png",
+              "src": "@PROJECT_PATH@/assets/images/sint-lucas-dag-gilles-van-bever.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -430,7 +430,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/schaeffer-portfolio-1400x1033.png",
+              "src": "@PROJECT_PATH@/assets/images/schaeffer-portfolio.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -497,7 +497,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/hoes-portfolio-1400x729.png",
+              "src": "@PROJECT_PATH@/assets/images/hoes-portfolio.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -650,7 +650,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/gif1-12.gif",
+            "bgImage": "@PROJECT_PATH@/assets/images/gif1-13.gif",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
