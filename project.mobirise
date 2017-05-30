@@ -650,7 +650,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/gif1-16.gif",
+            "bgImage": "@PROJECT_PATH@/assets/images/gif1-18.gif",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1160,7 +1160,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Bericht"
+                "customTitle": "Message"
               }
             }
           },
